@@ -1,0 +1,18 @@
+#Tout ignorer...
+*
+
+#Ne pas ignorer les dossier
+!*/
+
+#Les types de fichiers qui nous interessent.
+!*.c
+!*.h
+!CDFAres.ioc
+!.gitignore
+
+#A ignorer:
+Drivers/
+Core/Src/*.c
+!Core/Src/main.c
+Core/Inc/*.h
+
