@@ -1,0 +1,4 @@
+shell.c:10:5:add_man_desc	24	static
+shell.c:21:5:add_sh_fun	32	static
+shell.c:44:5:exec_shell_fun	56	static
+shell.c:77:5:shell_loop	104	static

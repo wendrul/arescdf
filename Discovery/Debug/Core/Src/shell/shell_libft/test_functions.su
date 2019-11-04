@@ -1,0 +1,2 @@
+test_functions.c:10:5:sh_print_char	24	static
+test_functions.c:28:5:sh_print_args	24	static

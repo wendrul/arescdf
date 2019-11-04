@@ -1,0 +1,2 @@
+base_shell_functions.c:11:5:sh_help	24	static
+base_shell_functions.c:32:5:sh_exit	16	static
